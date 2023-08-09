@@ -20,7 +20,7 @@ const Portfolio = () => {
           </div>
           <h3>ZIZI-a Directory App</h3>
           <a
-            href="https://64b58591a03fbc3b9f5d5822--prismatic-babka-cf8650.netlify.app/"
+            href="https://www.ziziwebsite.000webhostapp.com/"
             className="btn btn-primary"
             target="_blank"
           >
@@ -44,7 +44,7 @@ const Portfolio = () => {
           </div>
           <h3>HOODINI- an ECommerce App</h3>
           <a
-            href="https://64b6d90ddb7334145d82609e--lively-cheesecake-ec74ef.netlify.app/"
+            href="https://www.thompsonecomsite.000webhostapp.com/"
             className="btn btn-primary"
             target="_blank"
           >
