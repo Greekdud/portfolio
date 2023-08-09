@@ -5,7 +5,7 @@ import zizi from "../../assets/zizi.jpg";
 import pop from "../../assets/pop.jpg";
 // import hoodie from "../../assets/hoodie.jpg";
 import mee from "../../assets/mee.jpg";
-import newproject from "../../assets/newproject.jpeg";
+import newproject from "../../assets/newproject.jpg";
 
 const Portfolio = () => {
   return (
